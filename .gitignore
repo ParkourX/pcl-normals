@@ -2,6 +2,10 @@
 /CMakeCache.txt
 /Makefile
 /cmake_install.cmake
+# ply and pcd files
+*.ply
+*.pcd
+
 *.slo
 *.lo
 *.o
